@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Edyoda-react-final-assignment.git/static/css/main.378eeef8.chunk.css",
+    "main.js": "/Edyoda-react-final-assignment.git/static/js/main.b02574bc.chunk.js",
+    "main.js.map": "/Edyoda-react-final-assignment.git/static/js/main.b02574bc.chunk.js.map",
+    "runtime-main.js": "/Edyoda-react-final-assignment.git/static/js/runtime-main.6df27c3e.js",
+    "runtime-main.js.map": "/Edyoda-react-final-assignment.git/static/js/runtime-main.6df27c3e.js.map",
+    "static/js/2.cc454380.chunk.js": "/Edyoda-react-final-assignment.git/static/js/2.cc454380.chunk.js",
+    "static/js/2.cc454380.chunk.js.map": "/Edyoda-react-final-assignment.git/static/js/2.cc454380.chunk.js.map",
+    "index.html": "/Edyoda-react-final-assignment.git/index.html",
+    "precache-manifest.795b1dcc6ed6655383ceb4ef57a4c0a4.js": "/Edyoda-react-final-assignment.git/precache-manifest.795b1dcc6ed6655383ceb4ef57a4c0a4.js",
+    "service-worker.js": "/Edyoda-react-final-assignment.git/service-worker.js",
+    "static/css/main.378eeef8.chunk.css.map": "/Edyoda-react-final-assignment.git/static/css/main.378eeef8.chunk.css.map",
+    "static/js/2.cc454380.chunk.js.LICENSE.txt": "/Edyoda-react-final-assignment.git/static/js/2.cc454380.chunk.js.LICENSE.txt",
+    "static/media/avatar.png": "/Edyoda-react-final-assignment.git/static/media/avatar.12f2e157.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6df27c3e.js",
+    "static/js/2.cc454380.chunk.js",
+    "static/css/main.378eeef8.chunk.css",
+    "static/js/main.b02574bc.chunk.js"
+  ]
+}
